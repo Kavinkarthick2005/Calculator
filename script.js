@@ -1,4 +1,4 @@
-let display = document.getElementById("display");
+let display = document.getElementById("dissplay");
 
 function appendValue(value) {
     display.value += value;
